@@ -1,0 +1,826 @@
+{
+    "Products": [
+        {
+            "link": "https://www.amazon.ca/Paww-SilkSound-Headphones-Ear-Bluetooth/dp/B07GVBD2LB/ref=sr_1_204?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-204",
+            "name": "Paww SilkSound Headphones for Women - Stylish Foldable Paww SilkSound Headphones/Adjustable On-Ear Wireless Bluetooth Handsfree Calling with 8 Hours Playtime for Work Travel or Outdoor Use",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.ca/ALXCD-SoundSport-Replacement-Quietcontrol-Headphone%EF%BC%88Black/dp/B07GFHHZZ3/ref=sr_1_205?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-205",
+            "name": "ALXCD Ear Tips for Bose SoundSport Free Headphone, S/M/L 3 Pair Replacement Soft Silicone Earbud Tips, Fit for Bose Quietcontrol 30 QC30 Sound Sport Free Headphone\uff08Black",
+            "prev_price": 9.99,
+            "price": 9.99
+        },
+        {
+            "link": "https://www.amazon.ca/NewFantasia-3-5mm-Replacement-Headphones-Control/dp/B07DLMV616/ref=sr_1_206?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-206",
+            "name": "NewFantasia 3.5mm - 2.5mm Male Replacement Cable for Bose oe2, oe2i, AE2, QC35 Headphones, Remote Volume Control & Mic fit iPhone iPod ipad Apple Devices",
+            "prev_price": 16.9,
+            "price": 16.9
+        },
+        {
+            "link": "https://www.amazon.ca/AHG-Replacement-SoundLink-SoundTrue-Headphones/dp/B076YMCJQS/ref=sr_1_208?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-208",
+            "name": "Premium Accessory House Ear Pads Compatible with Bose SoundLink On-Ear, Bose On-Ear 2 (OE2) and Bose SoundTrue On-Ear Headphones (Black)",
+            "prev_price": 25.0,
+            "price": 25.0
+        },
+        {
+            "link": "https://www.amazon.ca/Agr%C3%A9able-Bluetooth-Headphones-Cancelling-Comfortable/dp/B07F3384GL/ref=sr_1_209?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-209",
+            "name": "Agr\u00e9able Active Noise Cancelling Bluetooth Headphones Wireless , Over Ear Comfortable Protein Bluetooth Headset with Built-in Mic for Travel Work TV Computer Cell phone Black",
+            "prev_price": 74.97,
+            "price": 59.97
+        },
+        {
+            "link": "https://www.amazon.ca/Inventiv-Bluetooth-Sunglasses-Hands-Free-Compatible/dp/B07FMMSHZ1/ref=sr_1_210?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-210",
+            "name": "Inventiv Wireless Bluetooth Sunglasses, Open Ear Music & Hands-Free Calling, for Men & Women, Polarized Lenses, Compatible with iPhone/Android (Black/Red Classic)",
+            "prev_price": 97.0,
+            "price": 97.0
+        },
+        {
+            "link": "https://www.amazon.ca/KZIOACSH-Replacement-Compatible-SoundTrue-Around-Ear/dp/B07NXQ74FB/ref=sr_1_212?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-212",
+            "name": "KZIOACSH Bose Replacement Ear Pads Compatible with QC 2 15 25 35 AE2 AE2i AE2w SoundTrue SoundLink(Around-Ear) Headphone(1 Pair)",
+            "prev_price": 19.99,
+            "price": 19.99
+        },
+        {
+            "link": "https://www.amazon.ca/Replacement-cushions-QC2-QC15-headphones/dp/B006QKXURS/ref=sr_1_217?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-217",
+            "name": "Accessory House Ear Pads Compatible with Bose QuietComfort 15 (QC15) and QuietComfort 2 (QC2) Headphones. Premium Protein Leather | Soft high-Density Foam | Increased Durability",
+            "prev_price": 25.0,
+            "price": 25.0
+        },
+        {
+            "link": "https://www.amazon.ca/NewFantasia-Replacement-SoundTrue-Headphones-around-ear/dp/B0779QFQHG/ref=sr_1_218?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-218",
+            "name": "NewFantasia Replacement cable for Bose SoundTrue Headphones / Bose SoundLink On-Ear, around-ear, wireless Headphones, Remote volume control & Mic fit Samsung Galaxy Sony Xiaomi Huawei Android",
+            "prev_price": 16.9,
+            "price": 16.9
+        },
+        {
+            "link": "https://www.amazon.ca/Muswor-Bluetooth-Amplifier-QuietComfort-Headphones/dp/B07FYCVC2M/ref=sr_1_226?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-226",
+            "name": "Muswor Bluetooth Receiver Wireless Adapter and Amplifier for Bose QuietComfort 25 Headphones ( QC25 )",
+            "prev_price": 38.99,
+            "price": 38.99
+        },
+        {
+            "link": "https://www.amazon.ca/Replacement-Compatible-QuietComfort-Cushions-Headphones/dp/B01HEX48YY/ref=sr_1_236?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-236",
+            "name": "PEYOU for Bose Replacement Ear Pads, Compatible for QuietComfort 2/QC2 QuietComfort 15/QC15 QuietComfort 25/QC25 Ae2 Ae2i Ae2w, for Bose Replacement Headphone Pads w/Soft Memory Foam Ear Pad Cushions with Headphones Cable Clips",
+            "prev_price": 16.99,
+            "price": 16.99
+        },
+        {
+            "link": "https://www.amazon.ca/Soundlink-Portable-Bluetooth-S024RU1700100-344666-0020/dp/B00BQ46X1E/ref=sr_1_239?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-239",
+            "name": "T-Power ( TM ) Ac Dc Adapter 17v~20v for Bose Soundlink I, II, III, 1, 2, 3 Portable Sound Link Wireless Bluetooth Mobile Speaker System 404600, 414255 S024RU1700100 344666-0020 (Will Not Fit Soundock)",
+            "prev_price": 28.9,
+            "price": 28.9
+        },
+        {
+            "link": "https://www.amazon.ca/Quiet-Comfort-Headphones-Replacement-Carry/dp/B00OCL61VK/ref=sr_1_240?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-240",
+            "name": "Bose Quiet Comfort 25 Headphones Replacement Carry Case, Black",
+            "prev_price": 74.45,
+            "price": 74.45
+        },
+        {
+            "link": "https://www.amazon.ca/SoundLink-Waterproof-Bluetooth-Speaker-AmazonBasics/dp/B078H6565T/ref=sr_1_241?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-241",
+            "name": "Bose SoundLink Micro Waterproof Bluetooth Speaker (Bright Orange) with AmazonBasics Case",
+            "prev_price": 155.85,
+            "price": 155.85
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Surround-Speakers-700-White/dp/B07QMZY2JR/ref=sr_1_243?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-243",
+            "name": "BOSE 834402-1200 Surround Speakers 700, White, Black",
+            "prev_price": 649.33,
+            "price": 649.33
+        },
+        {
+            "link": "https://www.amazon.ca/LuckyNV-Protective-SoundSport-Headphones-Accessories/dp/B07GSZ1Z4Z/ref=sr_1_244?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-244",
+            "name": "LuckyNV Portable Protective Bag Box Case for Bose SoundSport Free, B&O Play beoplay E8, Samsung Gear IconX, AirPods, Sony WF1000X Earbuds Earphone Headphones Accessories",
+            "prev_price": 13.99,
+            "price": 11.99
+        },
+        {
+            "link": "https://www.amazon.ca/Geekria-Replacement-QuietComfort-Headphones-Compatible/dp/B0149UTKUC/ref=sr_1_245?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-245",
+            "name": "Geekria Audio Cable with Lnline Mic for Bose QuietComfort25 QC25 Headphones, 2.5mm Replacement Stereo Cord with Microphone and Volume Control (Black, 5.6FT)",
+            "prev_price": 17.79,
+            "price": 14.31
+        },
+        {
+            "link": "https://www.amazon.ca/Replacement-Remote-control-Comfort-Headphone/dp/B01GY954S8/ref=sr_1_246?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-246",
+            "name": "Black Replacement Cable with Remote Volume Control & Mic for iPhone iPod ipad to Bose Quiet Comfort 25 QC25 AE2 AE2i AE2w Headphone",
+            "prev_price": 16.9,
+            "price": 16.9
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Cushion-QuietComfort-Headphones-Pair/dp/B01MS65CT8/ref=sr_1_247?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-247",
+            "name": "Bose QuietComfort 35 Headphones Ear Cushion Kit, Black",
+            "prev_price": 99.18,
+            "price": 99.18
+        },
+        {
+            "link": "https://www.amazon.ca/Authentic-Bose-Cancelling-Headphones-Transfer/dp/B083MSYRQD/ref=sr_1_248?dchild=1&keywords=bose+headphones&qid=1602627461&sr=8-248",
+            "name": "Authentic Short 8inch USB Type-C Cable for Bose Noise Cancelling Headphones 700 Also Fast Quick Charges Plus Data Transfer! (Black)",
+            "prev_price": 8.99,
+            "price": 8.99
+        },
+        {
+            "link": "https://www.amazon.ca/Soundcore-Bluetooth-Architecture-Performance-Personalized/dp/B00E8BDS60/ref=sr_1_155?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-155",
+            "name": "Anker Soundcore Liberty 2 Pro True Wireless Earbuds, Bluetooth Earbuds with Astria Coaxial Acoustic Architecture, In-Ear Studio Performance, 32 Hour Playtime, HearID Personalized EQ, Wireless Charging",
+            "prev_price": 199.99,
+            "price": 169.99
+        },
+        {
+            "link": "https://www.amazon.ca/QuietComfort-Headphones-Samsung-Android-devices/dp/B00XLIFRZQ/ref=sr_1_156?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-156",
+            "name": "Bose QuietComfort 25 Headphones Inline Mic/Remote Cable for Samsung & Android devices - Black",
+            "prev_price": 85.34,
+            "price": 85.34
+        },
+        {
+            "link": "https://www.amazon.ca/Bluetooth-Wireless-Noise-Cancelling-Headphones/dp/B0816RJSMS/ref=sr_1_158?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-158",
+            "name": "Over Ear Bluetooth Wireless Noise Cancelling Headphones - August EP765 Enjoy Bass Rich Sound and Optimum Comfort - Bluetooth v5.0 with aptX - Android/iOS App for Sound Control - [Metallic Grey]",
+            "prev_price": 129.95,
+            "price": 119.95
+        },
+        {
+            "link": "https://www.amazon.ca/Wireless-Bluetooth-Headphones-Waterproof-Earphones/dp/B087R955LW/ref=sr_1_159?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-159",
+            "name": "Wireless Earbuds, Upgrated Bluetooth V5.0 Earbuds, Touch Control Wireless Headphones 156 Hours Music Time, IPX7 Waterproof Headset for iphone Android [Support Connect Wire/Wireless Earphones & Bluetooth Speaker,MP3 Player,E-book,3500 mAh Charging Case]",
+            "prev_price": 69.99,
+            "price": 65.99
+        },
+        {
+            "link": "https://www.amazon.ca/Speaker-Alexa-voice-control-built/dp/B07FDF9B46/ref=sr_1_160?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-160",
+            "name": "Bose Home Speaker 500 with Alexa voice control built-in, Black - 795345-1100",
+            "prev_price": 399.32,
+            "price": 399.32
+        },
+        {
+            "link": "https://www.amazon.ca/Monster-Clarity-Designer-Ear-Headphones/dp/B075TPTBM1/ref=sr_1_161?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-161",
+            "name": "Monster Clarity HD Designer Series: Black On-Ear Bluetooth Wireless Headphones",
+            "prev_price": 109.99,
+            "price": 109.99
+        },
+        {
+            "link": "https://www.amazon.ca/Speaker-Amazon-Alexa-built-Black/dp/B07Q337VV3/ref=sr_1_163?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-163",
+            "name": "Bose Home Speaker 300, with Amazon Alexa built-in, Black",
+            "prev_price": 249.32,
+            "price": 249.32
+        },
+        {
+            "link": "https://www.amazon.ca/SoundTouch-Music-System-works-Espresso/dp/B013FMVNOG/ref=sr_1_164?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-164",
+            "name": "Bose Wave SoundTouch Music System IV, works with Alexa, Espresso Black - 738031-7710",
+            "prev_price": 749.0,
+            "price": 749.0
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Surround-Speakers-Black-Ivory/dp/B07QQ7PHJJ/ref=sr_1_170?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-170",
+            "name": "BOSE 834402-1100 Surround Speakers 700, Black Ivory",
+            "prev_price": 649.57,
+            "price": 649.57
+        },
+        {
+            "link": "https://www.amazon.ca/PowerLocus-Bluetooth-Headphones-Rechargeable-Microphone/dp/B06XT8L1YF/ref=sr_1_172?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-172",
+            "name": "PowerLocus Wireless Bluetooth Over-Ear Stereo Foldable Headphones, Wired Headsets Rechargeable with Built-in Microphone for iPhone, Samsung, LG, iPad (Rose Gold)",
+            "prev_price": 27.99,
+            "price": 27.99
+        },
+        {
+            "link": "https://www.amazon.ca/Marshall-4091742-Bluetooth-Headphones-Black/dp/B01MCY4UYM/ref=sr_1_173?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-173",
+            "name": "Marshall Mid Bluetooth Wireless On-Ear Headphone - Black",
+            "prev_price": 183.78,
+            "price": 183.78
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-301-V-Stereo-Loudspeakers-Pair/dp/B00006L7RV/ref=sr_1_174?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-174",
+            "name": "BOSE 29309 301-V Stereo Loudspeakers (Pair) - Black",
+            "prev_price": 349.0,
+            "price": 349.0
+        },
+        {
+            "link": "https://www.amazon.ca/Geekria-Headphones-QuietComfort-Skullcandy-Accessories/dp/B077FS32CR/ref=sr_1_184?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-184",
+            "name": "Geekria UltraShell Headphone Case for Bose QuietComfort 35 II, QC35 II Gaming Headset, QC25 Headphones, Replacement Protective Hard Shell Travel Carrying Bag with Room for Accessories (Dark Gray)",
+            "prev_price": 25.02,
+            "price": 25.02
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Collection-Polarized-interchangeable-replacement/dp/B07PYJ64LP/ref=sr_1_185?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-185",
+            "name": "Bose Frames Lens Collection, interchangeable replacement lenses",
+            "prev_price": 39.22,
+            "price": 39.22
+        },
+        {
+            "link": "https://www.amazon.ca/Frames-Tenor-Polarized-Mirrored-Silver/dp/B08GX62J51/ref=sr_1_186?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-186",
+            "name": "Bose Frames Tenor with Polarized Mirrored Silver Lens",
+            "prev_price": 358.0,
+            "price": 358.0
+        },
+        {
+            "link": "https://www.amazon.ca/Soundbar-Alexa-voice-control-built/dp/B07F39ZKR7/ref=sr_1_187?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-187",
+            "name": "Bose Soundbar 700 with Alexa voice control built-in, White - 795347-1200",
+            "prev_price": 999.0,
+            "price": 999.0
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-CX-6-00-BT-Bluetooth/dp/B078X37JF9/ref=sr_1_188?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-188",
+            "name": "Sennheiser CX 6.00 BT Wireless in-Ear Bluetooth Headphone",
+            "prev_price": 149.9,
+            "price": 149.9
+        },
+        {
+            "link": "https://www.amazon.ca/Portable-Speaker-Charging-Cradle-Black/dp/B07WPG4QDK/ref=sr_1_189?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-189",
+            "name": "Bose 830895-0010 Portable Home Speaker Charging Cradle, Black",
+            "prev_price": 39.0,
+            "price": 39.0
+        },
+        {
+            "link": "https://www.amazon.ca/U-ROK-Bluetooth-Headphones-Waterproof-Microphone/dp/B07X9SYVC8/ref=sr_1_192?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-192",
+            "name": "Wireless Earbuds, U-ROK Bluetooth 5.0 Earphones with Charing Case LED Digital Display Touch Control 90H Playtime in-Ear Headphones IPX8 Waterproof Headset Built-in Microphone for Sports, Gym (X11)",
+            "prev_price": 59.97,
+            "price": 59.97
+        },
+        {
+            "link": "https://www.amazon.ca/SoundLink-Waterproof-Bluetooth-Speaker-AmazonBasics/dp/B078H4FH5K/ref=sr_1_193?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-193",
+            "name": "Bose SoundLink Micro Waterproof Bluetooth Speaker (Black) with AmazonBasics Case",
+            "prev_price": 154.86,
+            "price": 154.86
+        },
+        {
+            "link": "https://www.amazon.ca/Portable-Speaker-Charging-Cradle-Silver/dp/B07WWKCS7R/ref=sr_1_195?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-195",
+            "name": "Bose 830895-0030 Portable Home Speaker Charging Cradle, Silver",
+            "prev_price": 39.99,
+            "price": 39.99
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-SoundLink-Revolve-Charging-Cradle/dp/B06XD1VYDB/ref=sr_1_199?dchild=1&keywords=bose+headphones&qid=1602627467&sr=8-199",
+            "name": "Bose SoundLink Revolve Charging Cradle,Black - 782298-0010",
+            "prev_price": 39.99,
+            "price": 39.99
+        },
+        {
+            "link": "https://www.amazon.ca/Jabra-100-99010000-20-Wireless-Bluetooth-Smartphones/dp/B07DS8TSKT/ref=sr_1_109?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-109",
+            "name": "Jabra Elite Active 65t Earbuds True Wireless Earbuds with Charging Case, Copper Blue Bluetooth Earbuds with a Secure Fit and Superior Sound, Long Battery Life and More",
+            "prev_price": 199.99,
+            "price": 159.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-PXC-550-II-Wireless-Cancelling/dp/B07ZPQQCVX/ref=sr_1_112?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-112",
+            "name": "Sennheiser PXC 550-II Wireless \u2013 NoiseGard Adaptive Noise Cancelling, Bluetooth Headphone with Touch Sensitive Control and 30-Hour Battery Life",
+            "prev_price": 459.95,
+            "price": 299.95
+        },
+        {
+            "link": "https://www.amazon.ca/Powerbeats3-Wireless-In-Ear-Headphones-Black/dp/B01LZH8QHJ/ref=sr_1_114?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-114",
+            "name": "Powerbeats3 Wireless Earphones - Apple W1 Headphone Chip, Class 1 Bluetooth, 12 Hours of Listening Time, Sweat Resistant Earbuds - Black",
+            "prev_price": 139.99,
+            "price": 139.99
+        },
+        {
+            "link": "https://www.amazon.ca/OneOdio-Bluetooth-Headphones-Share-Port-Professional/dp/B07MQQS88Q/ref=sr_1_116?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-116",
+            "name": "OneOdio A70 Bluetooth Over Ear Headphones, Studio Headphones with Shareport, Foldable, Wired and Wireless Professional Monitor Recording Headphones with Stereo Sound for Electric Drum Piano Guitar Amp",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.ca/Mpow-Bluetooth-Headphones-Headphone-Cellphones/dp/B07235QN5Z/ref=sr_1_121?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-121",
+            "name": "Mpow 059 Bluetooth Headphones Over Ear, [25h Playtime] Hi-Fi Stereo Wireless Headset, Foldable, Soft Memory-Protein Earmuffs, Built-in Mic and Wired Mode for Cell Phones/Tablet-Black",
+            "prev_price": 49.99,
+            "price": 49.99
+        },
+        {
+            "link": "https://www.amazon.ca/Wireless-ENACFIRE-Bluetooth-Headphones-Microphone/dp/B07MQ1FVBV/ref=sr_1_122?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-122",
+            "name": "Wireless Earbuds, ENACFIRE E18 Latest Bluetooth 5.0 True Wireless Bluetooth Earbuds 15H Playtime 3D Stereo Sound for Gym Sport Wireless Headphones, Built-in Microphone for iOS and Android Device",
+            "prev_price": 49.99,
+            "price": 49.99
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Frames-Tempo-Polarized-Orange/dp/B08GX99NC7/ref=sr_1_123?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-123",
+            "name": "Bose Frames Tempo with Polarized Road Orange Lens",
+            "prev_price": 358.0,
+            "price": 358.0
+        },
+        {
+            "link": "https://www.amazon.ca/Shure-Cancelling-Headphones-Studio-Quality-Technology/dp/B084S1CYKF/ref=sr_1_125?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-125",
+            "name": "Shure AONIC 50 Wireless Noise Cancelling Headphones, Premium Studio-Quality Sound, Bluetooth 5 Wireless Technology, Comfort Fit Over Ear, 20 Hours Battery Life, Fingertip Controls - Brown",
+            "prev_price": 579.0,
+            "price": 579.0
+        },
+        {
+            "link": "https://www.amazon.ca/Jabra-Elite-Active-75t-Earbuds/dp/B082Y214W3/ref=sr_1_126?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-126",
+            "name": "Jabra Elite Active 75t True Wireless Bluetooth Earbuds, Copper Black \u2013 Wireless Earbuds for Running and Sport, Charging Case Included, 4th Generation, 28 Hour Battery, Sport Earbuds",
+            "prev_price": 295.8,
+            "price": 295.8
+        },
+        {
+            "link": "https://www.amazon.ca/Philips-Performance-Bluetooth-Headphones-Audio/dp/B08232DXKL/ref=sr_1_127?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-127",
+            "name": "Philips Performance PH805 Wireless Bluetooth Active Noise Canceling Over Ear Stereo Performance Headphones with Hi-Res Audio, up to 30 Hours of Playtime - Black (TAPH805BK)",
+            "prev_price": 214.26,
+            "price": 214.26
+        },
+        {
+            "link": "https://www.amazon.ca/Companion-Multimedia-Speakers-3-5mm-input/dp/B00CD1PTF0/ref=sr_1_129?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-129",
+            "name": "Bose Companion 2 Series III Multimedia Speakers for PC (with 3.5mm AUX & PC input), Black - 354495-1100",
+            "prev_price": 109.0,
+            "price": 109.0
+        },
+        {
+            "link": "https://www.amazon.ca/inOpera-Cancelling-Headphones-Microphone-Comfortable/dp/B07PLJVVRF/ref=sr_1_130?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-130",
+            "name": "inOpera Audio A3 Bluetooth Headphones Wireless Over Ear, Active Noise Cancelling with Microphone Hi-Fi Deep Bass ANC 20 Hours Playtime, Comfortable Protein Earpads for Travel Work TV PC Game (Black)",
+            "prev_price": 89.99,
+            "price": 78.88
+        },
+        {
+            "link": "https://www.amazon.ca/beyerdynamic-Headphone-professional-mastering-editing/dp/B0011UB9CQ/ref=sr_1_132?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-132",
+            "name": "beyerdynamic DT 990 PRO open Studio Headphone for professional mixing, mastering and editing",
+            "prev_price": 272.7,
+            "price": 272.7
+        },
+        {
+            "link": "https://www.amazon.ca/Audio-Technica-ATH-M50x-Professional-Headphones-Black/dp/B00HVLUR86/ref=sr_1_133?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-133",
+            "name": "Audio-Technica ATH-M50x Professional Headphones, Black",
+            "prev_price": 219.0,
+            "price": 219.0
+        },
+        {
+            "link": "https://www.amazon.ca/Quietcomfort-Airplane-Airline-Adapter-Headphones/dp/B008F5JXA0/ref=sr_1_134?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-134",
+            "name": "Bose Quietcomfort Airplane Airline Adapter for Headphones",
+            "prev_price": 29.99,
+            "price": 29.99
+        },
+        {
+            "link": "https://www.amazon.ca/SoundLink-Waterproof-Bluetooth-Speaker-Midnight/dp/B0748NCPRR/ref=sr_1_135?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-135",
+            "name": "Bose SoundLink Micro Waterproof Bluetooth Speaker, Midnight Blue - 783342-0500",
+            "prev_price": 129.99,
+            "price": 129.99
+        },
+        {
+            "link": "https://www.amazon.ca/Bluetooth-Headphones-Tribit-Wireless-Playtime/dp/B0759QFPQ3/ref=sr_1_137?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-137",
+            "name": "Tribit XFree Tune Bluetooth Headphones Over-Ear, [40h Playtime] Bluetooth Headphones with Hi-Fi Stereo Sound & Rich Bass, Cnet's Award, Soft Headset with Mic & Foldable, Black",
+            "prev_price": 69.99,
+            "price": 69.99
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-USB-Link-Bluetooth-Module/dp/B088ZXGVK2/ref=sr_1_138?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-138",
+            "name": "Bose USB Link Bluetooth Module - USB Module for Seamless Bluetooth Connections to Your PC",
+            "prev_price": 74.78,
+            "price": 74.78
+        },
+        {
+            "link": "https://www.amazon.ca/Anker-Soundcore-Headphones-Noise-Canceling-Sweatproof/dp/B07MCGZK3B/ref=sr_1_139?dchild=1&keywords=bose+headphones&qid=1602627476&smid=AREE309N4XPXI&sr=8-139",
+            "name": "Upgraded, Anker Soundcore Liberty Neo True Wireless Earbuds, Pumping Bass, IPX7 Waterproof, Secure Fit, Bluetooth 5 Headphones, Stereo Calls, Noise Isolation, One Step Pairing, Sports, Work Out",
+            "prev_price": 79.99,
+            "price": 55.99
+        },
+        {
+            "link": "https://www.amazon.ca/JBL-Reflect-Truly-Wireless-Headphone/dp/B07VQJRG4R/ref=sr_1_140?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-140",
+            "name": "JBL Reflect Flow Truly Wireless Sport In-Ear Headphone - Blue",
+            "prev_price": 209.99,
+            "price": 169.39
+        },
+        {
+            "link": "https://www.amazon.ca/724272-0010-SoundLink-Bluetooth-Headphones-Replacement/dp/B00QGFEIK6/ref=sr_1_141?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-141",
+            "name": "Bose 724272-0010 SoundLink On-Ear Bluetooth Headphones Replacement Audio Cable, Blue",
+            "prev_price": 34.44,
+            "price": 34.44
+        },
+        {
+            "link": "https://www.amazon.ca/Replacement-Earpads-Enhanced-Isolation-Quietcomfort/dp/B07DY4R7D4/ref=sr_1_142?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-142",
+            "name": "ALPHA II Bose Headphone Replacement Ear Pads for Bose QC15 and QC25, Enhanced Noise Isolation + Supreme Comfort PU Leather EarPads Cushion Set ( Ae2i , Quietcomfort 15, Quiet comfort 25)",
+            "prev_price": 17.95,
+            "price": 17.95
+        },
+        {
+            "link": "https://www.amazon.ca/eero-Home-Wi-Fi-System-Beacon/dp/B0741XXF9Q/ref=sr_1_143?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-143",
+            "name": "Amazon eero Pro mesh wifi system (1 eero Pro + 1 Beacon)",
+            "prev_price": 399.0,
+            "price": 399.0
+        },
+        {
+            "link": "https://www.amazon.ca/Parasom-R3-Noise-Isolation-Noise-isolation-Gun/dp/B01N24DC4O/ref=sr_1_144?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-144",
+            "name": "Sports Earbuds, Parasom R3 Wired Stereo Bass 3.5mm Jack Noise-Isolation In-Ear Earphones with Mic,Volume Control and Track Control for IOS/Android with Noise-isolation (Gun Metal)",
+            "prev_price": 21.99,
+            "price": 21.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sound-Color-Bluetooth-Speaker-Polar/dp/B01HETFQKI/ref=sr_1_145?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-145",
+            "name": "Bose Sound Link Color Bluetooth Speaker II, Polar White - 752195-0200",
+            "prev_price": 169.99,
+            "price": 169.99
+        },
+        {
+            "link": "https://www.amazon.ca/Headphones-Woozik-Cancelling-Bluetooth-Wireless/dp/B07QMTTFWH/ref=sr_1_146?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-146",
+            "name": "ANC Headphones, Woozik Over Ear Active Noise Cancelling Bluetooth Headphones with Mic, Wireless and Wired 2 in 1 with Long Battery Life for Phone, PC, Travel",
+            "prev_price": 69.99,
+            "price": 69.99
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-UFS-20-Universal-Floor-Stands/dp/B00ODYZNGU/ref=sr_1_147?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-147",
+            "name": "BOSE 722139-0010 UFS-20 Series II Universal Floor Stands, Black, PA03643-B005",
+            "prev_price": 129.99,
+            "price": 97.58
+        },
+        {
+            "link": "https://www.amazon.ca/Bluetooth-Headphones-AUKEY-Magnetic-Water-Resistance/dp/B07N19TD5V/ref=sr_1_148?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-148",
+            "name": "Wireless Earbuds, AUKEY Bluetooth Headphones with Magnetic Switch, Bluetooth 5, Deep Bass, IPX6 Water-Resistance, USB C Charging, 8H Playtime and in-line Mic Key Series B60 for Sport, Gym, Workouts and Running",
+            "prev_price": 59.99,
+            "price": 49.99
+        },
+        {
+            "link": "https://www.amazon.ca/Wireless-Earbuds-Bluetooth-Headphones-Sweatproof/dp/B0812B5MLW/ref=sr_1_149?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-149",
+            "name": "Wireless Earbuds: True Mini Bluetooth Best TWS Stereo with Hook Charging Case Mic in Ear Earphones Twins Truly Sport Headphones Headset Sweatproof Gym Running Jogging Workout All Smart Phones Tablets",
+            "prev_price": 69.97,
+            "price": 49.97
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Frames-Tenor-Polarized-Mirrored/dp/B08GX74755/ref=sr_1_150?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-150",
+            "name": "Bose Frames Tenor with Polarized Mirrored Blue Lens",
+            "prev_price": 358.0,
+            "price": 358.0
+        },
+        {
+            "link": "https://www.amazon.ca/Jabra-Enabled-Wireless-Charging-Titanium/dp/B077ZGRVRX/ref=sr_1_152?dchild=1&keywords=bose+headphones&qid=1602627476&sr=8-152",
+            "name": "Jabra Elite 65t Alexa Enabled True Wireless Earbuds with Charging Case, Titanium Black",
+            "prev_price": 159.99,
+            "price": 139.0
+        },
+        {
+            "link": "https://www.amazon.ca/Edifier-W820BT-Bluetooth-Headphones-Headphone/dp/B07G2VLJL1/ref=sr_1_62?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-62",
+            "name": "Edifier W820BT Bluetooth Headphones - Foldable Wireless Headphone with 80-Hour Long Battery Life - Gold",
+            "prev_price": 67.99,
+            "price": 67.99
+        },
+        {
+            "link": "https://www.amazon.ca/1MORE-Earphones-Headphones-Resolution-Smartphones/dp/B01A7G35S0/ref=sr_1_63?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-63",
+            "name": "1MORE In-Ear Earphones Hi-Res Headphones with High Resolution, Bass Driven Sound, MEMS Mic, In-Line Remote, High Fidelity",
+            "prev_price": 124.99,
+            "price": 79.97
+        },
+        {
+            "link": "https://www.amazon.ca/Cancelling-Lightweight-Srhythm-NC35-Microphones/dp/B07YFW5DG6/ref=sr_1_64?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-64",
+            "name": "Noise Cancelling Headphones Wireless Bluetooth 5.0,Fast Charge Over-Ear Lightweight Srhythm NC35 Headset with Microphones,Mega Bass 40+ Hours\u2019 Playtime -Low Latency",
+            "prev_price": 60.09,
+            "price": 60.09
+        },
+        {
+            "link": "https://www.amazon.ca/QuietComfort-Gaming-Headset-Comfortable-Cancelling-Headphones/dp/B08DVCNYJC/ref=sr_1_65?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-65",
+            "name": "Bose QuietComfort 35 Series 2 Gaming Headset\u2014Comfortable Noise Cancelling Headphones",
+            "prev_price": 429.0,
+            "price": 429.0
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-HD-559-Open-Headphone/dp/B01L1IIEKM/ref=sr_1_66?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-66",
+            "name": "Sennheiser HD 559 Open Back Headphone",
+            "prev_price": 129.95,
+            "price": 129.95
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-SleepbudsTM-II-Noise-Masking-Technology/dp/B08FRR6Z1N/ref=sr_1_67?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-67",
+            "name": "Bose Sleepbuds\u2122 II \u2014 Soothing Sounds and Noise-Masking Technology Designed for Better Sleep",
+            "prev_price": 329.0,
+            "price": 329.0
+        },
+        {
+            "link": "https://www.amazon.ca/Bluedio-Bluetooth-Cancellation-Earphones-Headphones/dp/B087BFVNF5/ref=sr_1_68?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-68",
+            "name": "Wireless Earbuds, Bluedio Fi Bluetooth 5.0 Earbuds with CVC 8.0 Noise Cancellation, in-Ear Earphones Headphones with Stereo Sound Deep Bass Built-in Mic for Sports,Workout,Gym| 6Hrs Battery Duration",
+            "prev_price": 39.99,
+            "price": 29.99
+        },
+        {
+            "link": "https://www.amazon.ca/SE7-Cancelling-Headphones-Bluetooth-Comfortable/dp/B07JVRRMH6/ref=sr_1_73?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-73",
+            "name": "COWIN SE7 Active Noise Cancelling Headphones Bluetooth Headphones Wireless Headphones Over Ear with Microphone/Aptx, Comfortable Protein Earpads, 50 Hours Playtime for Travel/Work, Black",
+            "prev_price": 119.99,
+            "price": 119.99
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Frames-Tenor-Rectangular-Sunglasses/dp/B08D6QQ5ZK/ref=sr_1_74?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-74",
+            "name": "Bose Frames Tenor - Rectangular Polarized, Bluetooth Sunglasses \u2013 Black",
+            "prev_price": 309.0,
+            "price": 309.0
+        },
+        {
+            "link": "https://www.amazon.ca/Noise-Cancelling-Headphones-Control-Silver/dp/B088ZRPL3V/ref=sr_1_76?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-76",
+            "name": "Bose Noise Cancelling Headphones 700 UC, with Alexa Voice Control, Silver",
+            "prev_price": 443.6,
+            "price": 443.6
+        },
+        {
+            "link": "https://www.amazon.ca/Plantronics-BackBeat-Wireless-Canceling-21207803/dp/B07HV68ZHN/ref=sr_1_77?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-77",
+            "name": "Plantronics BackBeat GO 410 Wireless Active Noise Canceling Earbuds , Graphite black (21207803)",
+            "prev_price": 129.54,
+            "price": 129.54
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-QuietComfort-ear-cushion-Black/dp/B0073HD8R0/ref=sr_1_78?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-78",
+            "name": "Bose QuietComfort 15 ear cushion kit, Black",
+            "prev_price": 85.4,
+            "price": 85.4
+        },
+        {
+            "link": "https://www.amazon.ca/TaoTronics-Cancelling-Headphones-Bluetooth-Cellphone/dp/B082HX21CR/ref=sr_1_79?dchild=1&keywords=bose+headphones&qid=1602627483&smid=A2LS9AGP2RYMN&sr=8-79",
+            "name": "TaoTronics Active Noise Cancelling Headphones, Bluetooth Headphones [2020 New] Over Ear Wireless Headphones 40H Playtime Type-C Fast Charging Bluetooth 5.0 CVC 8.0 Mic for TV PC Cellphone Black",
+            "prev_price": 79.99,
+            "price": 55.99
+        },
+        {
+            "link": "https://www.amazon.ca/COWIN-E7-PRO-Cancelling-Headphones/dp/B0781KKY5L/ref=sr_1_80?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-80",
+            "name": "COWIN E7 PRO [Upgraded] Active Noise Cancelling Headphones Bluetooth Headphones with Microphone/Deep Bass Wireless Headphones Over Ear 30H Playtime for Travel/Work/TV/Computer/Cellphone - Black",
+            "prev_price": 95.99,
+            "price": 95.99
+        },
+        {
+            "link": "https://www.amazon.ca/Skullcandy-S6HTW-K033-Headphones-Microphone-Comfortable/dp/B075749KHR/ref=sr_1_81?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-81",
+            "name": "Skullcandy Hesh 3 Wireless Over-Ear Headphones, Black (S6HTW-K033)",
+            "prev_price": 99.99,
+            "price": 59.94
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-WH1000XM3-Canceling-Headphones-WH-1000XM3/dp/B07G4MNFS1/ref=sr_1_82?dchild=1&keywords=bose+headphones&qid=1602627483&smid=A3DWYIK6Y9EEQB&sr=8-82",
+            "name": "Sony Noise Cancelling Headphones WH1000XM3: Wireless Bluetooth Over the Ear Headphones with Mic and Alexa voice control - Black",
+            "prev_price": 448.0,
+            "price": 328.0
+        },
+        {
+            "link": "https://www.amazon.ca/Quiet-Comfort-Headphones-Cushion-Black/dp/B00OCL621Y/ref=sr_1_83?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-83",
+            "name": "Bose Quiet Comfort 25 Headphones Ear Cushion Kit, Black",
+            "prev_price": 99.18,
+            "price": 99.18
+        },
+        {
+            "link": "https://www.amazon.ca/Neewer-Studio-Monitor-Headphones-Loudhailer/dp/B06WP61H23/ref=sr_1_85?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-85",
+            "name": "Neewer Studio Monitor Headphones, Rotatable Headsets with 45mm Loudhailer Driver, 6.35mm Plug Adapter for PC, Cell Phones, TV",
+            "prev_price": 38.49,
+            "price": 38.49
+        },
+        {
+            "link": "https://www.amazon.ca/Aftershokz-Titanium-Open-Ear-Bluetooth-Headphones/dp/B018XNGQOE/ref=sr_1_86?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-86",
+            "name": "AfterShokz Titanium Open Ear Wireless Bone Conduction Headphones, Slate Grey, AS600SG",
+            "prev_price": 129.0,
+            "price": 129.0
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-17817368599-Wave-FM-Antenna/dp/B001UOXPIY/ref=sr_1_87?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-87",
+            "name": "Bose Wave FM Antenna",
+            "prev_price": 42.99,
+            "price": 42.99
+        },
+        {
+            "link": "https://www.amazon.ca/SoundLink-Revolve-Bluetooth-Speaker-Triple/dp/B06XCQKTKR/ref=sr_1_88?dchild=1&keywords=bose+headphones&qid=1602627483&smid=A3DWYIK6Y9EEQB&sr=8-88",
+            "name": "Bose SoundLink Revolve Bluetooth Speaker, Triple Black - 739523-1110",
+            "prev_price": 249.0,
+            "price": 159.0
+        },
+        {
+            "link": "https://www.amazon.ca/Marshall-Bluetooth-Wireless-Headphone-04091743/dp/B06XVTKK2G/ref=sr_1_89?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-89",
+            "name": "Marshall Monitor Bluetooth Wireless Over-Ear Headphone, Black (04091743)",
+            "prev_price": 349.99,
+            "price": 149.97
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Headphones-Connector-Replacement-Control/dp/B07PFL1YNT/ref=sr_1_90?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-90",
+            "name": "Audio Cable for Bose QC25 QC35 Headphones with iPhone Connector Replacement Aux Cord w Inline Remote Mic, Volume Control",
+            "prev_price": 25.99,
+            "price": 25.99
+        },
+        {
+            "link": "https://www.amazon.ca/Charging-Bose-Cancelling-Headphones-Charger/dp/B0855PJR69/ref=sr_1_92?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-92",
+            "name": "Quick Charging 3.0 KIT Works for Bose Noise Cancelling Headphones 700 Wall Charger + USB Type-C Data Cable 18W. (Black)",
+            "prev_price": 27.07,
+            "price": 27.07
+        },
+        {
+            "link": "https://www.amazon.ca/Bluetooth-Headphones-Mpow-Sweatproof-Cancellation/dp/B07BC64276/ref=sr_1_93?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-93",
+            "name": "Mpow Flame Bluetooth Headphones,Bluetooth Earbuds IPX7 Waterproof Wireless headphone/Bass+ HD Stereo/7-9Hrs Playtime, cVc6.0 Noise Cancellation for Workout, Running, Gym-Blue Black",
+            "prev_price": 34.99,
+            "price": 34.99
+        },
+        {
+            "link": "https://www.amazon.ca/House-Marley-Positive-Vibration-Headphones/dp/B06XWD596C/ref=sr_1_94?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-94",
+            "name": "House of Marley EM-JH133-SV Positive Vibration 2 Wireless Bluetooth On Ear Headphones,Silver,Large",
+            "prev_price": 99.99,
+            "price": 99.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-WH-1000XM3-Wireless-Noise-Canceling-Headphones/dp/B0848TSWDF/ref=sr_1_95?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-95",
+            "name": "Sony WH-1000XM3 Wireless Noise-Canceling Over-Ear Headphones (Black) with Carry Case and in-Flight Adapter",
+            "prev_price": 369.95,
+            "price": 369.95
+        },
+        {
+            "link": "https://www.amazon.ca/Frames-Collection-Soprano-interchangeable-replacement/dp/B08D6S23S1/ref=sr_1_96?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-96",
+            "name": "Bose Frames Soprano Lens Collection and Bluetooth Sunglasses",
+            "prev_price": 49.0,
+            "price": 49.0
+        },
+        {
+            "link": "https://www.amazon.ca/Ergonomic-Headphones-APEKX-Waterproof-Supporting/dp/B07XFMHQDP/ref=sr_1_97?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-97",
+            "name": "Sport Headphones with Earhook Design, APEKX True Wireless Bluetooth 5.0 Sports Earbuds, IPX7 Waterproof Stereo Sound, Built-in Mic Earphones with Portable Charging Case Supporting Wireless Charging(Black)",
+            "prev_price": 64.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-WF-1000XM3-Industry-Canceling-Wireless/dp/B07T81554H/ref=sr_1_98?dchild=1&keywords=bose+headphones&qid=1602627483&smid=A3DWYIK6Y9EEQB&sr=8-98",
+            "name": "Sony WF-1000XM3/B Industry Leading Noise Canceling Truly Wireless Earbuds, Black",
+            "prev_price": 299.99,
+            "price": 228.0
+        },
+        {
+            "link": "https://www.amazon.ca/Bluetooth-Headphones-Mijiaer-Sweatproof-Connection/dp/B07TFFK44T/ref=sr_1_99?dchild=1&keywords=bose+headphones&qid=1602627483&smid=A3M70403FTZH3B&sr=8-99",
+            "name": "Bluetooth headphones, Mijiaer Sport Bluetooth 5.0 Stereo Wireless Earphone 8-9 Hours Playtime CVC 6.0 Noise Cancelling Bluetooth Earbuds with IPX6 Waterproof, 3 EQ Sound Settings Bulit-in Mic Hands Free for Gym, Workout (Red, L80)",
+            "prev_price": 39.99,
+            "price": 19.02
+        },
+        {
+            "link": "https://www.amazon.ca/Mpow-Cancelling-Headphones-Microphone-Memory-Protein/dp/B07Z4N2M2B/ref=sr_1_100?dchild=1&keywords=bose+headphones&qid=1602627483&smid=A1E57UY6AMKO25&sr=8-100",
+            "name": "Mpow H19 IPO Active Noise Cancelling Headphones, Bluetooth 5.0 Headphones with Quick Charge, 35H Playtime, Hi-Fi Deep Bass Wireless Headsets with CVC8.0 Mic for Kids, Adults, Travel, Work",
+            "prev_price": 62.98,
+            "price": 49.98
+        },
+        {
+            "link": "https://www.amazon.ca/Plantronics-BackBeat-Noise-Cancelling-Wireless-Headphones/dp/B015QNICZU/ref=sr_1_101?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-101",
+            "name": "Plantronics BackBeat Sense On-Ear Noise-Cancelling Wireless Headphones - White/Tan (20374903)",
+            "prev_price": 229.95,
+            "price": 179.36
+        },
+        {
+            "link": "https://www.amazon.ca/Soundcore-Bluetooth-Earphones-Personalized-Cancelling/dp/B07SKJNCXM/ref=sr_1_102?dchild=1&keywords=bose+headphones&qid=1602627483&smid=AREE309N4XPXI&sr=8-102",
+            "name": "Anker Soundcore Liberty Air 2 Wireless Earbuds, Diamond-Inspired Drivers, Bluetooth Earphones, 4 Mics, Noise Reduction, 28H Playtime, HearID, Bluetooth 5, Wireless Charging, for Calls, Home Office",
+            "prev_price": 139.99,
+            "price": 89.99
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Replacement-Ear-Pads-Kit/dp/B07C2Q448J/ref=sr_1_103?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-103",
+            "name": "Bose Replacement Ear Pads Kit - Compatible with Quietcomfort 2 / Quiet Comfort 15 / QC 25 / Ae2 / Ae2i / Ae2w / Sound True / Sound Link (Black)",
+            "prev_price": 18.99,
+            "price": 18.99
+        },
+        {
+            "link": "https://www.amazon.ca/Protector-Tempered-Anti-Fingerprint-No-Bubble-Scratch-Resistant/dp/B07VLC39K5/ref=sr_1_104?dchild=1&keywords=bose+headphones&qid=1602627483&sr=8-104",
+            "name": "[Upgraded 2020] True Wireless Earbuds - 36 Hours Total - Bluetooth Earphones 5.0, IPX8 Waterproof TWS Headphones in-Ear Pods Built-in Mic with Deep Bass for Sport, Gym, Running iPhone, Samsung",
+            "prev_price": 49.95,
+            "price": 49.95
+        },
+        {
+            "link": "https://www.amazon.ca/QuietComfort-Wireless-Headphones-Cancelling-Control/dp/B0756CYWWD/ref=sr_1_1?dchild=1&keywords=bose+headphones&qid=1602627491&smid=A3DWYIK6Y9EEQB&sr=8-1",
+            "name": "Bose QuietComfort 35 (Series II) Wireless Headphones, Noise Cancelling, with Alexa Voice Control,Black - 789564-0010",
+            "prev_price": 399.0,
+            "price": 269.0
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-WH-1000XM4-Canceling-Headphones-WH1000XM4/dp/B0863TXGM3/ref=sr_1_13?dchild=1&keywords=bose+headphones&qid=1602627491&smid=A3DWYIK6Y9EEQB&sr=8-13",
+            "name": "Sony WH-1000XM4 Wireless Industry Leading Noise Canceling Overhead Headphones, Black, One Size (WH1000XM4/B)",
+            "prev_price": 499.99,
+            "price": 428.0
+        },
+        {
+            "link": "https://www.amazon.ca/Cancelling-Bluetooth-Headphones-Wireless-Comfortable/dp/B019U00D7K/ref=sr_1_16?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-16",
+            "name": "COWIN E7 Active Noise Cancelling Headphones Bluetooth Headphones with Mic Deep Bass Wireless Headphones Over Ear, Comfortable Protein Earpads, 30H Playtime for Travel Work TV PC Cellphone - Black",
+            "prev_price": 85.99,
+            "price": 85.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-WH-CH710N-Canceling-Headphones-Bluetooth/dp/B085RNVJ3P/ref=sr_1_21?dchild=1&keywords=bose+headphones&qid=1602627491&smid=A3DWYIK6Y9EEQB&sr=8-21",
+            "name": "Sony WH-CH710N Wireless Over-The-Ear Noise Canceling Headphones Bluetooth, Black",
+            "prev_price": 249.99,
+            "price": 128.0
+        },
+        {
+            "link": "https://www.amazon.ca/Monster-Bluetooth-Headphones-Earphones-Waterproof/dp/B07WJWVSHH/ref=sr_1_23?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-23",
+            "name": "Monster Wireless Earbuds, Bluetooth 5.0 in-Ear Headphones with Charging Case, TWS Stereo Earphones Deep Bass Sound, IPX5 Waterproof, Built-in Mic, Clear Call, Secure Fit for Sports",
+            "prev_price": 109.99,
+            "price": 109.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-MDRZX110-Over-Ear-Headphones-Black/dp/B00NJ2M33I/ref=sr_1_24?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-24",
+            "name": "Sony MDRZX110 Over-Ear Headphones (Black)",
+            "prev_price": 24.98,
+            "price": 24.98
+        },
+        {
+            "link": "https://www.amazon.ca/Bowers-Wilkins-Cancelling-Wireless-Headphones/dp/B07574TYWW/ref=sr_1_25?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-25",
+            "name": "Bowers & Wilkins PX Active Noise Cancelling Wireless Headphones Best-in-class Sound, Space Grey",
+            "prev_price": 310.4,
+            "price": 276.84
+        },
+        {
+            "link": "https://www.amazon.ca/Wireless-Boltune-Bluetooth-Waterproof-Headphones/dp/B07XRM43QF/ref=sr_1_26?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-26",
+            "name": "Wireless Earbuds, [Upgraded] Boltune Bluetooth 5.0 True Wireless Earbuds in-Ear Headsets with Mic CVC 8.0 Noise Cancelling, IPX8 Waterproof, USB-C Quick Charge, 40Hours Playtime, Single/Twin Mode",
+            "prev_price": 65.99,
+            "price": 49.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-XB900N-Wireless-Canceling-Headphones/dp/B07RM8WQ8G/ref=sr_1_27?dchild=1&keywords=bose+headphones&qid=1602627491&smid=A3DWYIK6Y9EEQB&sr=8-27",
+            "name": "Sony XB900N Wireless Noise Canceling Extra BassTM Headphones, Black, One Size",
+            "prev_price": 348.0,
+            "price": 168.0
+        },
+        {
+            "link": "https://www.amazon.ca/Bose-Frames-Tempo-Sunglasses-Connectivity/dp/B08D6RVBJD/ref=sr_1_28?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-28",
+            "name": "Bose Frames Tempo - Sports Sunglasses with Polarized Lenses & Bluetooth Connectivity",
+            "prev_price": 309.0,
+            "price": 309.0
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-HD-4-50-Bluetooth-Cancellation/dp/B01MSZSL4I/ref=sr_1_29?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-29",
+            "name": "Sennheiser HD 4.50 BTNC Bluetooth Active Noise Cancellation Headphone",
+            "prev_price": 179.95,
+            "price": 179.95
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-Momentum-Around-Wireless-Black/dp/B00SNI44CQ/ref=sr_1_30?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-30",
+            "name": "Sennheiser Momentum 2 Wireless Headphone with Active Noise Cancellation - Black",
+            "prev_price": 249.95,
+            "price": 249.95
+        },
+        {
+            "link": "https://www.amazon.ca/Bang-Olufsen-Wireless-Headphones-Charcoal/dp/B01N6S83CL/ref=sr_1_31?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-31",
+            "name": "Bang & Olufsen Beoplay H4 Wireless Headphones, Charcoal Gray",
+            "prev_price": 251.5,
+            "price": 251.5
+        },
+        {
+            "link": "https://www.amazon.ca/BOSE-852267-0100-Cancelling-Headphones-Control/dp/B088ZWQB48/ref=sr_1_32?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-32",
+            "name": "BOSE 852267-0100 Noise Cancelling Headphones 700 UC, with Alexa Voice Control, Black",
+            "prev_price": 443.6,
+            "price": 443.6
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-Momentum-Cancelling-Headphones-Functionality/dp/B07VW98ZKG/ref=sr_1_33?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-33",
+            "name": "Sennheiser Momentum 3 Wireless Noise Cancelling Headphones with Auto On/Off, Smart Pause Functionality and Smart Control App",
+            "prev_price": 529.95,
+            "price": 430.22
+        },
+        {
+            "link": "https://www.amazon.ca/SoundLink-Bluetooth-Headphones-Microphone-Refurbished/dp/B07G4LDS9Z/ref=sr_1_34?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-34",
+            "name": "Bose SoundLink On-Ear Bluetooth Headphones with Microphone, Triple Black (Renewed)",
+            "prev_price": 212.84,
+            "price": 212.84
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-MDR-XB50AP-Extra-Earbud-Headphones/dp/B00JRD13T8/ref=sr_1_35?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-35",
+            "name": "Sony MDR-XB50AP/B Extra Bass Earbud Headphones (Black)",
+            "prev_price": 34.99,
+            "price": 31.98
+        },
+        {
+            "link": "https://www.amazon.ca/Sony-WH-CH700N-Canceling-Headphones-WHCH700N/dp/B079GPFLT1/ref=sr_1_36?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-36",
+            "name": "Sony WH-CH700N Wireless Noise Canceling Headphones, Black (WHCH700N/B)",
+            "prev_price": 228.0,
+            "price": 228.0
+        },
+        {
+            "link": "https://www.amazon.ca/Soundcore-Bluetooth-Headphones-Canceling-Playtime/dp/B07NM3RSRQ/ref=sr_1_37?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-37",
+            "name": "Anker Soundcore Life Q20 Bluetooth Headphones, Hybrid Active Noise Canceling, 40H Playtime, Hi-Res Audio, Deep Bass, Memory Foam Ear Cups and Headband, Wireless Over Ear Headphones for Travel, Work",
+            "prev_price": 79.99,
+            "price": 79.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-HD-4-40-BT-Bluetooth/dp/B01MSZSJE9/ref=sr_1_39?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-39",
+            "name": "Sennheiser HD 4.40 Around Ear Bluetooth Wireless Headphones (HD 4.40 BT)",
+            "prev_price": 129.95,
+            "price": 129.95
+        },
+        {
+            "link": "https://www.amazon.ca/Soundcore-Microphones-Reduction-Waterproof-Earphones/dp/B07SJR6HL3/ref=sr_1_40?dchild=1&keywords=bose+headphones&qid=1602627491&smid=AREE309N4XPXI&sr=8-40",
+            "name": "Anker Soundcore Life P2 True Wireless Earbuds with 4 Microphones, CVC 8.0 Noise Reduction, 40H Playtime, IPX7 Waterproof",
+            "prev_price": 79.99,
+            "price": 48.99
+        },
+        {
+            "link": "https://www.amazon.ca/Cancelling-Headphone-Srhythm-Microphone-Headphones/dp/B07DW4NWQB/ref=sr_1_41?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-41",
+            "name": "Noise Cancelling Headphones Wireless Bluetooth 5.0,Fast Charge Over-Ear Lightweight Srhythm NC35 Headset with Microphones,Mega Bass 40+ Hours\u2019 Playtime -Low Latency",
+            "prev_price": 59.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-CX-Bluetooth-Sports-Headphone/dp/B07D46ZRHN/ref=sr_1_42?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-42",
+            "name": "Sennheiser CX Sport Bluetooth Sports Headphone",
+            "prev_price": 169.95,
+            "price": 134.34
+        },
+        {
+            "link": "https://www.amazon.ca/Ultimate-Bluetooth-Headphones-Waterproof-Earphones/dp/B07W87HQ6G/ref=sr_1_44?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-44",
+            "name": "[Xmythorig Ultimate] True Wireless Earbuds Bluetooth 5.0 Headphones, IPX7 Waterproof Earphones for Sports, 110H Playtime w/ 3300mAh Charging Case, 3D Stereo Audio Touch Control in-Ear Headset w/Mic",
+            "prev_price": 89.99,
+            "price": 59.99
+        },
+        {
+            "link": "https://www.amazon.ca/Beyerdynamic-Traveller-Bluetooth-Headphones-Personalization/dp/B07T267MWG/ref=sr_1_45?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-45",
+            "name": "Beyerdynamic Lagoon ANC Traveller Bluetooth Headphones with ANC and Sound Personalization Black",
+            "prev_price": 476.69,
+            "price": 476.69
+        },
+        {
+            "link": "https://www.amazon.ca/Sennheiser-HD-599-Open-Headphone/dp/B01L1IICR2/ref=sr_1_48?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-48",
+            "name": "Sennheiser HD 599 Open Back Headphone",
+            "prev_price": 259.95,
+            "price": 259.95
+        },
+        {
+            "link": "https://www.amazon.ca/1MORE-Stylish-Wireless-Earbuds-Built/dp/B07M6LP3F9/ref=sr_1_51?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-51",
+            "name": "1MORE Stylish True Wireless Earbuds - Bluetooth 5.0 Stereo Deep Bass Wireless Earphones Built-in Mic Headset, 24 Hours Playtime, in-Ear Bluetooth Earphones with Charging Case",
+            "prev_price": 134.99,
+            "price": 105.95
+        },
+        {
+            "link": "https://www.amazon.ca/Monster-Bluetooth-headphones-waterproof-microphone/dp/B084SDM8CY/ref=sr_1_52?dchild=1&keywords=bose+headphones&qid=1602627491&sr=8-52",
+            "name": "Monster wireless earbuds, Bluetooth 5.0 in-ear headphones with charging box, subwoofer with TWS stereo headphones, charging function IPX5 waterproof function, built-in microphone, clear calls, suitable for sports",
+            "prev_price": 109.98,
+            "price": 109.98
+        }
+    ]
+}
