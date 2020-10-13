@@ -59,7 +59,7 @@ while pagesToSearch > 0:
 
         # Search for 70 products on that page
         while counter <= 70:
-            print('Counter', counter)
+            # print('Counter', counter)
             try:
                 name = item.find_element_by_xpath(f'//div[{counter}]/div/span/div/div/div[2]/h2/a/span').text
                 print('Product Name: ', name)
