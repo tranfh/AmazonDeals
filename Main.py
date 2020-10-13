@@ -133,6 +133,5 @@ print(json.dumps(best_deal_product.serialize(), indent=4, sort_keys=True))
 options = Options()
 webdriver.ChromeOptions()
 options.add_argument('--ignore-certificate-errors')
-chrome_path = r"/Users/franktran/Library/Application Support/WebDriverManager/bin/chromedriver"
 driver = webdriver.Chrome(executable_path=chrome_path, options=options)
 driver.get(best_deal_product.link)
